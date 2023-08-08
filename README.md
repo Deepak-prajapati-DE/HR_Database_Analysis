@@ -8,13 +8,13 @@ The HR database contains a variety of data about employees, including their demo
 
 The database contains the following tables:
 --------------------------------------------------------
->> countries: This table contains a list of countries.
->> departments: This table contains a list of departments.
->> employees: This table contains a list of employees.
->> job_history: This table tracks the job history of employees.
->> jobs: This table contains a list of jobs.
->> locations: This table contains a list of locations.
->> regions: This table contains a list of regions.
+countries: This table contains a list of countries.
+departments: This table contains a list of departments.
+employees: This table contains a list of employees.
+job_history: This table tracks the job history of employees.
+jobs: This table contains a list of jobs.
+locations: This table contains a list of locations.
+regions: This table contains a list of regions.
 
 About the analysis
 --------------------------------------------------------
